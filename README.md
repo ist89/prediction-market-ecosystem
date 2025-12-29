@@ -151,7 +151,7 @@ This directory is maintained by the community for the community. We welcome all 
 
 Questions? Reach out:
 
-- Twitter/X: [@predictiondesk](https://x.com/predictiondesk)
+- Twitter/X: [@PredictionDeskX](https://x.com/predictiondeskx)
 - Website: [predictiondesk.xyz](https://predictiondesk.xyz)
 
 ---
