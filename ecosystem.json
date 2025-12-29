@@ -843,7 +843,7 @@
       "twitterXUrl": "https://x.com/PredictParity"
     },
     {
-      "key": "predict",
+      "key": "predict_xbt",
       "name": "Predict",
       "url": "https://www.predictionxbt.fun/",
       "description": "The Layer 1 for Social Prediction Markets",
