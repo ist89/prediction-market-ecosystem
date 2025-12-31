@@ -81,7 +81,7 @@
       "description": "Prediction market platform that allows you to bet on the outcome of events.",
       "tags": ["Platform"],
       "supportedPlatforms": ["manifold"],
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Manifold_twitter_logo.jpg",
+      "imageUrl": "/manifold.png",
       "heroImageUrl": "https://novig.com/assets/images/logo.svg",
       "twitterXUrl": "https://x.com/ManifoldMarkets",
       "discordUrl": "https://discord.gg/X2uy63PzCp"
@@ -963,6 +963,85 @@
       "imageUrl": "https://pbs.twimg.com/profile_images/1902360413561565184/EqQUAbuD_400x400.jpg",
       "heroImageUrl": "https://pbs.twimg.com/profile_banners/1261736634116161538/1765897513/1500x500",
       "twitterXUrl": "https://x.com/solflare"
+    },
+    {
+      "key": "prediction-index",
+      "name": "PredictionIndex",
+      "url": "https://predictionindex.xyz/",
+      "description": "We map, rank, and help you discover the world of prediction markets.",
+      "tags": ["Analytics Tools"],
+      "supportedPlatforms": [
+        "polymarket",
+        "kalshi",
+        "opinion",
+        "limitless",
+        "myriad"
+      ],
+      "imageUrl": "https://pbs.twimg.com/profile_images/1972021658274926592/GsAFJ0cg_400x400.jpg",
+      "heroImageUrl": "https://pbs.twimg.com/profile_banners/1950610243190247424/1756591890/1500x500",
+      "twitterXUrl": "https://x.com/predictionindex"
+    },
+    {
+      "key": "prophed",
+      "name": "Prophed",
+      "url": "https://prophed.com/",
+      "description": "One platform for all your gaming & DeFi needs.",
+      "tags": ["Trade Terminal"],
+      "supportedPlatforms": ["polymarket", "manifold"],
+      "imageUrl": "https://pbs.twimg.com/profile_images/1979491668677066752/1pd8eoC5_400x400.jpg",
+      "heroImageUrl": "https://pbs.twimg.com/profile_banners/1787629724807659520/1766944708/1500x500",
+      "twitterXUrl": "https://x.com/prophedcom"
+    },
+    {
+      "key": "worm-wtf",
+      "name": "worm.wtf",
+      "url": "https://www.worm.wtf/",
+      "description": "Solana-native prediction market. Launch your own prediction market on Solana.",
+      "tags": ["Platform"],
+      "supportedPlatforms": ["worm.wtf"],
+      "imageUrl": "https://pbs.twimg.com/profile_images/2002941116157513728/6FzKQG6o_400x400.jpg",
+      "heroImageUrl": "https://pbs.twimg.com/profile_banners/1780965701328461824/1758087784/1500x500",
+      "twitterXUrl": "https://x.com/wormdotwtf"
+    },
+    {
+      "key": "probable",
+      "name": "Probable",
+      "url": "https://probable.markets/",
+      "description": "Prediction market platform that allows you to bet on the outcome of events on BNB Chain.",
+      "tags": ["Platform"],
+      "supportedPlatforms": ["probable"],
+      "imageUrl": "https://pbs.twimg.com/profile_images/1983374292483235840/Cz-DNSJJ_400x400.jpg",
+      "heroImageUrl": "https://pbs.twimg.com/profile_banners/1980890801027874816/1761708257/1500x500",
+      "twitterXUrl": "https://x.com/0xProbable"
+    },
+    {
+      "key": "bravado",
+      "name": "Bravado",
+      "url": "https://x.com/bravadotrade",
+      "description": "Trade the future with an edge. For traders tired of being wrong",
+      "tags": ["Trade Terminal"],
+      "supportedPlatforms": ["polymarket", "kalshi"],
+      "imageUrl": "https://pbs.twimg.com/profile_images/1980424061403451393/DBUfV4hO_400x400.jpg",
+      "heroImageUrl": "https://pbs.twimg.com/profile_banners/1945302694706515968/1761003814/1500x500",
+      "twitterXUrl": "https://x.com/bravadotrade",
+      "discordUrl": "https://discord.com/invite/ZtTGmVgbRZ"
+    },
+    {
+      "key": "cobot",
+      "name": "Cobot",
+      "url": "https://x.com/bravadotrade",
+      "description": "Autonomous trading companion and aggregator for prediction markets.",
+      "tags": ["Trade Terminal"],
+      "supportedPlatforms": [
+        "polymarket",
+        "kalshi",
+        "myriad",
+        "limitless",
+        "opinion"
+      ],
+      "imageUrl": "https://pbs.twimg.com/profile_images/1966153625333542920/ep5n_wqu_400x400.jpg",
+      "heroImageUrl": "https://pbs.twimg.com/profile_banners/1964710323304202240/1759716703/1500x500",
+      "twitterXUrl": "https://x.com/cobotgg"
     }
   ]
 }
