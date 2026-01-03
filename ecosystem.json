@@ -351,6 +351,17 @@
       "twitterXUrl": "https://x.com/Astron_Markets"
     },
     {
+      "key": "olympus",
+      "name": "Olympus",
+      "url": "https://olympusx.app",
+      "description": "A Polymarket copy-trading platform that mirrors top-performing wallets with configurable risk controls and automation.",
+      "tags": ["Trade Terminal"],
+      "supportedPlatforms": ["polymarket"],
+      "imageUrl": "/logo.png",
+      "twitterXUrl": "https://x.com/olympusappX",
+      "discordUrl": "https://discord.gg/vUqeQ2tH9f"
+    },
+    {
       "key": "polyinsider",
       "name": "PolyInsider",
       "url": "https://polyinsider.io/",
